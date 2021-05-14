@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **yanmad27/yanmad27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 👿 Hi there 👿
+
+- 🔭 I’m currently working on [Primedata.ai](https://www.primedata.ai)
+- 💬 About me [via](https://www.yanmad27.github.io)
+- 📫 Travel its [Amulet store](https://www.amuletstore.net)
+- ⚡ Fun fact: ...
+
+###Goal
+
+![WAKATIME 2020_PERSONALIZE](assets/wakatime-2020.png?raw=true "Wakatime 2020")
