@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - 📫 Travel its [Amulet store](https://www.amuletstore.net)
 - ⚡ Fun fact: ...
 
-###Goal
+### Goal
 
 ![WAKATIME 2020_PERSONALIZE](assets/wakatime-2020.png?raw=true "Wakatime 2020")
