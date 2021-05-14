@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 ### 👿 Hi there 👿
 
-- 🔭 I’m currently working on [Primedata.ai](https://www.primedata.ai)
-- 💬 About me [via](https://www.yanmad27.github.io)
-- 📫 Travel its [Amulet store](https://www.amuletstore.net)
+- 🔭 I’m currently working on [Primedata.ai](https://primedata.ai/about)
+- 💬 About me [via](https://yanmad27.github.io)
+- 📫 Travel its [Amulet store](https://amuletstore.net/)
 - ⚡ Fun fact: ...
 
 ### Goal
