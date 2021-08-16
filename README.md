@@ -32,7 +32,7 @@
 - My dream: `while(sleeping){money++;}`
 - 📫 How to reach me: yanmad27@gmail.com
 - 📫 CV: https://yanmad27.github.io/
-- 📫 My Tools: https://amuletstore.net/
+- 📫 My Website: https://doanphan.com/
 - 📫 Youtube Channel: https://www.youtube.com/channel/UC1V_v2SDR-eGUQwtRt2LnzQ
 
 ---
