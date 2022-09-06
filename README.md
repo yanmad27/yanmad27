@@ -24,9 +24,8 @@
 
 [comment]: <> (</p>)
 
-- 🔭 I’m currently a FullStack Software Engineer of PrimeDATA.ai
+- 🔭 I’m currently a FullStack Software Engineer of Woss.vn
 - 🌱 I’m currently staying at home with my family and enjoy coding our Platform
-- 👯 I’m looking to collaborate on Marketing-science based Data Platform
 - 💬 Ask me about Consultant:  ReactJS, NodeJS, Java, ReactNative
 - ⚡ Fun fact: enjoy life with coding is real
 - My dream: `while(sleeping){money++;}`
