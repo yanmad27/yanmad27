@@ -28,8 +28,8 @@
 - 🌱 I’m currently staying at home with and enjoy coding
 - ⚡ Fun fact: enjoy life with coding is real
 - My dream: `while(sleeping){money++;}`
-- 📫 How to reach me: yanmad27@gmail.com
-- 📫 CV: https://yanmad27.github.io/
+- 📫 Contact: yanmad27@gmail.com
+- 📫 Resume: [DoanPhan_Resume](https://drive.google.com/file/d/1PvL7M0jbX14mQeLCUuy7d0NsYCxqFOYC/view?usp=sharing)
 
 ---
 
