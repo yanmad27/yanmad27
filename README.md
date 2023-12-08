@@ -1,14 +1,4 @@
-<h1 align="center">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Doan Phan (Yan)</h1>
-<h3 align="center">A Full-Stack Software Engineer</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yanmad27&color=brightgreen&style=flat">
-</p>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=0E81F7&lines=Welcome%2C+nice+to+meet+you!;Good+morning.+It%E2%80%99s+a+beautiful+day.;Dear+friend.+I+wish+you+all+the+best+on+this+day.)](https://git.io/typing-svg"></a>
-</p>
-
-[comment]: <> (<p align="center">)
+## Overview
 
 [comment]: <> ( <a href="https://www.youtube.com/channel/UC1V_v2SDR-eGUQwtRt2LnzQ">)
 
@@ -22,7 +12,7 @@
 
 [comment]: <> ( <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/nguyenlephong?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>)
 
-[comment]: <> (</p>)
+### Fullstack Developer at NT Space
 
 - 🔭 I’m currently a Full-stack Software Engineer
 - 🌱 I’m currently staying at home with and enjoy coding
@@ -165,3 +155,7 @@
 ### Wakatime 2020
 
 ![WAKATIME 2020_PERSONALIZE](assets/wakatime-2020.png?raw=true 'Wakatime 2020')
+
+```
+
+```
