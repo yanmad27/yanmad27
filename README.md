@@ -10,30 +10,27 @@
 
 [comment]: <> (<p align="center">)
 
-[comment]: <> (  <a href="https://www.youtube.com/channel/UC1V_v2SDR-eGUQwtRt2LnzQ">)
+[comment]: <> ( <a href="https://www.youtube.com/channel/UC1V_v2SDR-eGUQwtRt2LnzQ">)
 
-[comment]: <> (    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?color=red&labelColor=ce4630&label=Subscribe&style=for-the-badge"/></a> )
+[comment]: <> ( <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?color=red&labelColor=ce4630&label=Subscribe&style=for-the-badge"/></a> )
 
-[comment]: <> (  <a href="https://www.youtube.com/channel/UC1V_v2SDR-eGUQwtRt2LnzQ">)
+[comment]: <> ( <a href="https://www.youtube.com/channel/UC1V_v2SDR-eGUQwtRt2LnzQ">)
 
-[comment]: <> (    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge-temp.php?label=Views&color=e1ad0e&labelColor=c79600&style=for-the-badge"/></a> )
+[comment]: <> ( <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge-temp.php?label=Views&color=e1ad0e&labelColor=c79600&style=for-the-badge"/></a> )
 
-[comment]: <> (  <a href="https://github.com/yanmad27">)
+[comment]: <> ( <a href="https://github.com/yanmad27">)
 
-[comment]: <> (    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/nguyenlephong?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>)
+[comment]: <> ( <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/nguyenlephong?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>)
 
 [comment]: <> (</p>)
 
-- 🔭 I’m currently a FullStack Software Engineer of PrimeDATA.ai
-- 🌱 I’m currently staying at home with my family and enjoy coding our Platform
-- 👯 I’m looking to collaborate on Marketing-science based Data Platform
-- 💬 Ask me about Consultant:  ReactJS, NodeJS, Java, ReactNative
+- 🔭 I’m currently a Full-stack Software Engineer
+- 🌱 I’m currently staying at home with and enjoy coding
+- 💬 Ask me about Consultant: ReactJS, NodeJS, Java, ReactNative
 - ⚡ Fun fact: enjoy life with coding is real
 - My dream: `while(sleeping){money++;}`
 - 📫 How to reach me: yanmad27@gmail.com
 - 📫 CV: https://yanmad27.github.io/
-- 📫 My Tools: https://amuletstore.net/
-- 📫 Youtube Channel: https://www.youtube.com/channel/UC1V_v2SDR-eGUQwtRt2LnzQ
 
 ---
 
@@ -41,12 +38,12 @@
 
 <p>
 <!-- <a href="https://www.linkedin.com/in/doan-phan-38458b1b3/"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="https://www.linkedin.com/in/doan-phan-38458b1b3"><img src="https://img.shields.io/badge/-DoanPhan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/yanmad27"><img src="https://img.shields.io/badge/-DoanPhan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:yanmad27@gmail.com"><img src="https://img.shields.io/badge/-yanmad27@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenlephong&" alt="nguyenlephong" /></p> -->
 
---- 
+---
 
 ### 🛠 &nbsp;Languages and Tools
 
@@ -74,19 +71,17 @@
 ### 👨‍💻 Programming languages
 
 <p>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23121011.svg?logo=gnu-bash&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ags"><img alt="Google Apps Script" src="https://img.shields.io/badge/Google%20Apps%20Script%20-%2302569B.svg?logo=google-cloud&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/Sass%20-hotpink.svg?logo=SASS&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ascratch"><img alt="Scratch" src="https://img.shields.io/badge/Scratch%20-%234D97FF.svg?logo=scratch&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML%20-%23e0982c.svg?logo=svg&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white"></a>
+    
 </p>
 
 ### 🧰 Frameworks and libraries
@@ -169,5 +164,4 @@
 
 ### Wakatime 2020
 
-![WAKATIME 2020_PERSONALIZE](assets/wakatime-2020.png?raw=true "Wakatime 2020")
-
+![WAKATIME 2020_PERSONALIZE](assets/wakatime-2020.png?raw=true 'Wakatime 2020')
