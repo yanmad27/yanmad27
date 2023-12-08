@@ -26,7 +26,6 @@
 
 - 🔭 I’m currently a Full-stack Software Engineer
 - 🌱 I’m currently staying at home with and enjoy coding
-- 💬 Ask me about Consultant: ReactJS, NodeJS, Java, ReactNative
 - ⚡ Fun fact: enjoy life with coding is real
 - My dream: `while(sleeping){money++;}`
 - 📫 How to reach me: yanmad27@gmail.com
