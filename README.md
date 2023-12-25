@@ -46,11 +46,18 @@
 
 ### Achievement
 
-#### LeetCode2023
-<img width="314" alt="Screenshot 2023-12-26 at 01 17 12" src="https://github.com/yanmad27/yanmad27/assets/38394675/6638de1a-3d3a-4d3a-bba2-03090afcac92">
+#### 2023
+![LeetCode Rewind 2023](https://github.com/yanmad27/yanmad27/assets/38394675/6638de1a-3d3a-4d3a-bba2-03090afcac92)
+![sql_intermediate certificate.pdf](https://github.com/yanmad27/yanmad27/files/13767007/sql_intermediate.certificate.pdf)
+![sql_basic certificate.pdf](https://github.com/yanmad27/yanmad27/files/13767006/sql_basic.certificate.pdf)
+![software_engineer certificate.pdf](https://github.com/yanmad27/yanmad27/files/13767005/software_engineer.certificate.pdf)
+![rest_api_intermediate certificate.pdf](https://github.com/yanmad27/yanmad27/files/13767004/rest_api_intermediate.certificate.pdf)
+![problem_solving_basic certificate.pdf](https://github.com/yanmad27/yanmad27/files/13767003/problem_solving_basic.certificate.pdf)
+![nodejs_basic certificate.pdf](https://github.com/yanmad27/yanmad27/files/13767002/nodejs_basic.certificate.pdf)
+![javascript_basic certificate.pdf](https://github.com/yanmad27/yanmad27/files/13767001/javascript_basic.certificate.pdf)
+![frontend_developer_react certificate.pdf](https://github.com/yanmad27/yanmad27/files/13767000/frontend_developer_react.certificate.pdf)
 
-#### Wakatime 2020
-
+#### 2020
 ![WAKATIME 2020_PERSONALIZE](assets/wakatime-2020.png?raw=true 'Wakatime 2020')
 ---
 
