@@ -44,6 +44,16 @@
 
 ---
 
+### Achievement
+
+#### LeetCode2023
+<img width="314" alt="Screenshot 2023-12-26 at 01 17 12" src="https://github.com/yanmad27/yanmad27/assets/38394675/6638de1a-3d3a-4d3a-bba2-03090afcac92">
+
+#### Wakatime 2020
+
+![WAKATIME 2020_PERSONALIZE](assets/wakatime-2020.png?raw=true 'Wakatime 2020')
+---
+
 ### 🛠 &nbsp;Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -142,7 +152,6 @@
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
 ### ⚙️ &nbsp;GitHub Analytics
-<img width="314" alt="Screenshot 2023-12-26 at 01 17 12" src="https://github.com/yanmad27/yanmad27/assets/38394675/6638de1a-3d3a-4d3a-bba2-03090afcac92">
 
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
@@ -163,6 +172,4 @@
 
 ---
 
-### Wakatime 2020
 
-![WAKATIME 2020_PERSONALIZE](assets/wakatime-2020.png?raw=true 'Wakatime 2020')
