@@ -30,7 +30,7 @@
 - My dream: `while(sleeping){money++;}`
 - 📫 Contact: yanmad27@gmail.com
 - 📫 Resume: [DoanPhan_Resume](https://drive.google.com/file/d/1KOmzLONM9aw0htpwb9z1Plw4f9QOcK_y/view?usp=sharing)
-- ![image](https://github.com/yanmad27/yanmad27/assets/38394675/3c41c70e-e60a-4e1f-bc9a-5911d46040ee) LeetCode: [Profile](https://leetcode.com/yanmad27)
+- <img width="4" alt="leetcode" src="https://github.com/yanmad27/yanmad27/assets/38394675/5b46b7d1-2a2f-4fc0-b29a-e7f57c0fd539"> LeetCode: [Profile](https://leetcode.com/yanmad27)
 
 ---
 
