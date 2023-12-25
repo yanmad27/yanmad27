@@ -51,6 +51,16 @@
 <img width="830" alt="image" src="https://github.com/yanmad27/yanmad27/assets/38394675/0b009985-f74a-4d4c-a0c8-01e00f5ae6d1">
 <img width="400" alt="image" src="https://github.com/yanmad27/yanmad27/assets/38394675/6638de1a-3d3a-4d3a-bba2-03090afcac92">
 
+![image](https://github.com/yanmad27/yanmad27/assets/38394675/f4c4edbf-4b38-4e7e-9360-d72a9502441f)
+![image](https://github.com/yanmad27/yanmad27/assets/38394675/68d20140-1019-4749-94c7-dadb0ea80a25)
+![image](https://github.com/yanmad27/yanmad27/assets/38394675/64fdf442-e80e-494b-9cb6-0ed925363bbf)
+![image](https://github.com/yanmad27/yanmad27/assets/38394675/502d1e15-a257-42cf-8d13-b3219681d49f)
+![image](https://github.com/yanmad27/yanmad27/assets/38394675/b8d77265-62ec-4672-8854-118c85b85002)
+![image](https://github.com/yanmad27/yanmad27/assets/38394675/2c01508c-b39d-4280-8556-fc448ae341e2)
+![image](https://github.com/yanmad27/yanmad27/assets/38394675/03ac5d15-ddbe-4a03-9fd3-d6b87eaec52f)
+![image](https://github.com/yanmad27/yanmad27/assets/38394675/03fe529d-20e2-489c-b424-37b686fa6375)
+
+
 #### 2020
 ![WAKATIME 2020_PERSONALIZE](assets/wakatime-2020.png?raw=true 'Wakatime 2020')
 ---
