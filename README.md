@@ -142,6 +142,8 @@
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
 ### ⚙️ &nbsp;GitHub Analytics
+<img width="314" alt="Screenshot 2023-12-26 at 01 17 12" src="https://github.com/yanmad27/yanmad27/assets/38394675/6638de1a-3d3a-4d3a-bba2-03090afcac92">
+
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
