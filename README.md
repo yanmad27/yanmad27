@@ -47,8 +47,9 @@
 ### Achievement
 
 #### 2023
-![LeetCode Rewind 2023](https://github.com/yanmad27/yanmad27/assets/38394675/6638de1a-3d3a-4d3a-bba2-03090afcac92)
+
 <img width="830" alt="image" src="https://github.com/yanmad27/yanmad27/assets/38394675/0b009985-f74a-4d4c-a0c8-01e00f5ae6d1">
+<img width="400" alt="image" src="https://github.com/yanmad27/yanmad27/assets/38394675/6638de1a-3d3a-4d3a-bba2-03090afcac92">
 
 #### 2020
 ![WAKATIME 2020_PERSONALIZE](assets/wakatime-2020.png?raw=true 'Wakatime 2020')
