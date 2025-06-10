@@ -29,7 +29,7 @@
 - ⚡ Fun fact: enjoy life with coding is real
 - My dream: `while(sleeping){money++;}`
 - 📫 Contact: yanmad27@gmail.com
-- 📫 Resume: [DoanPhan_Resume](https://drive.google.com/file/d/1KOmzLONM9aw0htpwb9z1Plw4f9QOcK_y/view?usp=sharing)
+- 📫 Resume: [DoanPhan_Resume](https://drive.google.com/file/d/1GgogUNFhdXBR1bAWwQWsYm1br8Sz4qqb/view?usp=sharing)
 - 📫 LeetCode: [Profile](https://leetcode.com/yanmad27)
 
 ---
